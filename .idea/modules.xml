@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractChallenge/AbstractChallenge.iml" filepath="$PROJECT_DIR$/AbstractChallenge/AbstractChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AbstractClasses/AbstractClasses.iml" filepath="$PROJECT_DIR$/AbstractClasses/AbstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdventureGame/AdventureGame.iml" filepath="$PROJECT_DIR$/AdventureGame/AdventureGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Burger Challenge/Burger Challenge.iml" filepath="$PROJECT_DIR$/Burger Challenge/Burger Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionsMethods/CollectionsMethods.iml" filepath="$PROJECT_DIR$/CollectionsMethods/CollectionsMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionsOverview/CollectionsOverview.iml" filepath="$PROJECT_DIR$/CollectionsOverview/CollectionsOverview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExecutorChallenge/ExecutorChallenge.iml" filepath="$PROJECT_DIR$/ExecutorChallenge/ExecutorChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalCollectionsChallenge/FinalCollectionsChallenge.iml" filepath="$PROJECT_DIR$/FinalCollectionsChallenge/FinalCollectionsChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalExplored/FinalExplored.iml" filepath="$PROJECT_DIR$/FinalExplored/FinalExplored.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameConsole/GameConsole.iml" filepath="$PROJECT_DIR$/GameConsole/GameConsole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericsChallenge/GenericsChallenge.iml" filepath="$PROJECT_DIR$/GenericsChallenge/GenericsChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericsExtra/GenericsExtra.iml" filepath="$PROJECT_DIR$/GenericsExtra/GenericsExtra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericsStudentChallenge/GenericsStudentChallenge.iml" filepath="$PROJECT_DIR$/GenericsStudentChallenge/GenericsStudentChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashing/Hashing.iml" filepath="$PROJECT_DIR$/Hashing/Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImmutableChallenges/ImmutableChallenges.iml" filepath="$PROJECT_DIR$/ImmutableChallenges/ImmutableChallenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceChallenge/InterfaceChallenge.iml" filepath="$PROJECT_DIR$/InterfaceChallenge/InterfaceChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Inheritance/Java Inheritance.iml" filepath="$PROJECT_DIR$/Java Inheritance/Java Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpressionChallenge/LambdaExpressionChallenge.iml" filepath="$PROJECT_DIR$/LambdaExpressionChallenge/LambdaExpressionChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpressions/LambdaExpressions.iml" filepath="$PROJECT_DIR$/LambdaExpressions/LambdaExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaIntro/LambdaIntro.iml" filepath="$PROJECT_DIR$/LambdaIntro/LambdaIntro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LocalClassChallenge/LocalClassChallenge.iml" filepath="$PROJECT_DIR$/LocalClassChallenge/LocalClassChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodReferenceChallenge/MethodReferenceChallenge.iml" filepath="$PROJECT_DIR$/MethodReferenceChallenge/MethodReferenceChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodReferences/MethodReferences.iml" filepath="$PROJECT_DIR$/MethodReferences/MethodReferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NestedClasses/NestedClasses.iml" filepath="$PROJECT_DIR$/NestedClasses/NestedClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetsAndMaps/SetsAndMaps.iml" filepath="$PROJECT_DIR$/SetsAndMaps/SetsAndMaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamingStudents/StreamingStudents.iml" filepath="$PROJECT_DIR$/StreamingStudents/StreamingStudents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamsChallenge/StreamsChallenge.iml" filepath="$PROJECT_DIR$/StreamsChallenge/StreamsChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SynchronizationChallenge/SynchronizationChallenge.iml" filepath="$PROJECT_DIR$/SynchronizationChallenge/SynchronizationChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Test Projects.iml" filepath="$PROJECT_DIR$/.idea/Test Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadChallenge/ThreadChallenge.iml" filepath="$PROJECT_DIR$/ThreadChallenge/ThreadChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreeSetChallenge/TreeSetChallenge.iml" filepath="$PROJECT_DIR$/TreeSetChallenge/TreeSetChallenge.iml" />
+    </modules>
+  </component>
+</project>
